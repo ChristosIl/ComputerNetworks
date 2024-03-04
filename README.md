@@ -4,9 +4,9 @@ The lab exercises cover network structure, network protocols (IP, ARP, ICMP, TCP
 application protocols (FTP, TFTP, TELNET, SSH, HTTP, HTTPS, DNS, SMTP), use of protocol analysis tools and performance measurement. 
 We used the wireshark tool for our assigments
 
-#LABS
+# LABS
 
-  Wireshark
+  Wireshark 
   OSI Layers
   Ethernet, ARP
   IPv4, Ping, Fragmentation
